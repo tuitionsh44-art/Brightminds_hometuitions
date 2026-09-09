@@ -1,0 +1,11 @@
+BRIGHTMINDS TUTOR GOOGLE FORM
+
+The website is ready. To make “Start Teaching” open your real Google Form:
+1. Create a Google Form using the questions shown on tutor-application.html.
+2. Copy the Share link.
+3. Open script.js.
+4. Replace the empty value in TUTOR_GOOGLE_FORM_URL with your Google Form URL.
+5. Save and republish/upload the website.
+
+Example:
+const TUTOR_GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform";
